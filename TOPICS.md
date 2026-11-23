@@ -8,7 +8,7 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] 7 Best Free AI Image Generators (2026) — best-free-ai-image-generators
 - [x] Grammarly vs QuillBot (2026) — grammarly-vs-quillbot
 - [x] What Is Gemini Agent? Google's New AI Agent Explained Simply (2026) — what-is-gemini-agent  (2026-11-23, manual paste: Blogger email bounced)
-- [x] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian  (2026-11-23, manual paste: not sent to Blogger after bounce)
+- [x] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian  (2026-11-23, sent to Blogger as draft)
 
 ## Queue
 - [ ] 10 Best Free AI Tools for Students (2026) — best-free-ai-tools-for-students
