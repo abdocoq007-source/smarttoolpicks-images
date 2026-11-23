@@ -9,6 +9,7 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] Grammarly vs QuillBot (2026) — grammarly-vs-quillbot
 
 ## Queue
+- [ ] What Is Gemini Agent? Google's New AI Agent Explained Simply (2026) — what-is-gemini-agent  (news topic: research Google's official announcements from the Oct 8, 2026 Gemini at Work event; explain what it is, who can use it, price/availability, examples, vs ChatGPT agents; only state verified facts)
 - [ ] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian
 - [ ] 10 Best Free AI Tools for Students (2026) — best-free-ai-tools-for-students
 - [ ] CapCut vs InShot: Best Free Video Editor (2026) — capcut-vs-inshot
