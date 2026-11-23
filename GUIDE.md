@@ -15,6 +15,6 @@ Blog: https://anchor2024.blogspot.com (SmartToolPicks — honest reviews & compa
 - Use in HTML as: https://cdn.jsdelivr.net/gh/abdocoq007-source/smarttoolpicks-images@main/posts/YYYY-MM/<file>.jpg with width="640", centered <p>.
 
 ## Delivery
-1. Email the article HTML (subject = article title) to the Blogger post-by-email address; Blogger saves it as a draft. The Gmail connector strips <img> tags with external URLs, so in the Blogger email attach the 3 JPGs as inline attachments and use src="cid:att0/att1/att2". Wait ~60s and check Gmail for a mailer-daemon bounce.
+1. Email the article HTML (subject = article title) to the Blogger post-by-email address; Blogger saves it as a draft. The Gmail connector strips <img> tags with external URLs, and emails with attachments get blocked, so send without attachments; the user adds the 3 images in Blogger with Insert image → By URL. Wait ~60s and check Gmail for a mailer-daemon bounce.
 2. ALWAYS also email abdocoq007@gmail.com a message "[SmartToolPicks] Ready: <title>" containing: title, labels, permalink slug, search description (≤155 chars), the 3 jsDelivr image URLs as plain text (for Blogger's Insert image → By URL), and the full HTML code inside a <pre> block (HTML-escaped) so it can be copy-pasted into Blogger's HTML view if the draft didn't arrive.
 3. Mark the topic [x] in TOPICS.md and push.
