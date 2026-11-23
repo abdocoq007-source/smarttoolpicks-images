@@ -7,10 +7,10 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] ChatGPT vs Gemini for Students (2026) — chatgpt-vs-gemini-for-students
 - [x] 7 Best Free AI Image Generators (2026) — best-free-ai-image-generators
 - [x] Grammarly vs QuillBot (2026) — grammarly-vs-quillbot
+- [x] What Is Gemini Agent? Google's New AI Agent Explained Simply (2026) — what-is-gemini-agent  (2026-11-23, manual paste: Blogger email bounced)
+- [x] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian  (2026-11-23, manual paste: not sent to Blogger after bounce)
 
 ## Queue
-- [ ] What Is Gemini Agent? Google's New AI Agent Explained Simply (2026) — what-is-gemini-agent  (news topic: research Google's official announcements from the Oct 8, 2026 Gemini at Work event; explain what it is, who can use it, price/availability, examples, vs ChatGPT agents; only state verified facts)
-- [ ] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian
 - [ ] 10 Best Free AI Tools for Students (2026) — best-free-ai-tools-for-students
 - [ ] CapCut vs InShot: Best Free Video Editor (2026) — capcut-vs-inshot
 - [ ] Best Free VPNs (2026): Honest Comparison — best-free-vpns
