@@ -14,7 +14,9 @@ Blog: https://anchor2024.blogspot.com (SmartToolPicks — honest reviews & compa
 - Commit to posts/YYYY-MM/<slug>*.jpg and push to main.
 - Use in HTML as: https://cdn.jsdelivr.net/gh/abdocoq007-source/smarttoolpicks-images@main/posts/YYYY-MM/<file>.jpg with width="640", centered <p>.
 
-## Delivery
-1. Email the article HTML (subject = article title) to the Blogger post-by-email address; Blogger saves it as a draft. The Gmail connector strips <img> tags with external URLs, and emails with attachments get blocked, so send without attachments; the user adds the 3 images in Blogger with Insert image → By URL. Wait ~60s and check Gmail for a mailer-daemon bounce.
-2. ALWAYS also email abdocoq007@gmail.com (main delivery: attach the full HTML as <slug>.txt; the user copies it into Blogger's HTML view) a message "[SmartToolPicks] Ready: <title>" containing: title, labels, permalink slug, search description (≤155 chars), the 3 jsDelivr image URLs as plain text (for Blogger's Insert image → By URL), and the full HTML code inside a <pre> block (HTML-escaped) so it can be copy-pasted into Blogger's HTML view if the draft didn't arrive.
-3. Mark the topic [x] in TOPICS.md and push.
+## Delivery (changed 2026-11-25 at the user's request)
+- Do NOT send any email (no Blogger post-by-email, no email to Gmail).
+- Deliver each article in the chat: the COMPLETE HTML in one html code block (with the jsDelivr images), then below it Title, Labels, Permalink slug and Search description (≤155 chars), each in its own code block. The user pastes the HTML into Blogger's HTML view.
+- Also send the featured <slug>.jpg as a file in the chat; the user replaces the first image with it via Insert image → Upload (Seoplus homepage thumbnail).
+- Avoid bare brand names that look like web addresses (e.g. "hide.me"): Blogger auto-links them.
+- Mark the topic [x] in TOPICS.md and push.
