@@ -11,9 +11,9 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] Notion vs Obsidian: Best Note-Taking App (2026) — notion-vs-obsidian  (2026-11-23, sent to Blogger as draft)
 - [x] 10 Best Free AI Tools for Students (2026) — best-free-ai-tools-for-students  (2026-11-24, sent to Blogger as draft, no bounce)
 - [x] CapCut vs InShot: Best Free Video Editor (2026) — capcut-vs-inshot  (2026-11-24, sent to Blogger as draft, no bounce)
+- [x] Best Free VPNs (2026): Honest Comparison — best-free-vpns  (2026-11-25, sent to Blogger as draft, no bounce)
+- [x] Google Docs vs Microsoft Word Online (2026) — google-docs-vs-word-online  (2026-11-25, manual paste: Blogger email bounced)
 ## Queue
-- [ ] Best Free VPNs (2026): Honest Comparison — best-free-vpns
-- [ ] Google Docs vs Microsoft Word Online (2026) — google-docs-vs-word-online
 - [ ] Perplexity vs ChatGPT Search (2026) — perplexity-vs-chatgpt-search
 - [ ] Best Free Background Remover Tools (2026) — best-free-background-removers
 - [ ] Trello vs Asana for Small Teams (2026) — trello-vs-asana
