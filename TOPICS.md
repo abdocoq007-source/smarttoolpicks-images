@@ -13,8 +13,8 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] CapCut vs InShot: Best Free Video Editor (2026) — capcut-vs-inshot  (2026-11-24, sent to Blogger as draft, no bounce)
 - [x] Best Free VPNs (2026): Honest Comparison — best-free-vpns  (2026-11-25, sent to Blogger as draft, no bounce)
 - [x] Google Docs vs Microsoft Word Online (2026) — google-docs-vs-word-online  (2026-11-25, manual paste: Blogger email bounced)
+- [x] Perplexity vs ChatGPT Search (2026) — perplexity-vs-chatgpt-search  (2026-11-25, delivered in chat, evening)
 ## Queue
-- [ ] Perplexity vs ChatGPT Search (2026) — perplexity-vs-chatgpt-search
 - [ ] Best Free Background Remover Tools (2026) — best-free-background-removers
 - [ ] Trello vs Asana for Small Teams (2026) — trello-vs-asana
 - [ ] Best Free Password Managers (2026) — best-free-password-managers
