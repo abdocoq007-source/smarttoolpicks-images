@@ -17,7 +17,7 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] Best Free Background Remover Tools (2026) — best-free-background-removers  (2026-11-26, delivered in chat)
 - [x] Trello vs Asana for Small Teams (2026) — trello-vs-asana  (2026-11-26, delivered in chat)
 ## Queue
-- [ ] Best Free Password Managers (2026) — best-free-password-managers
+- [x] Best Free Password Managers (2026) — best-free-password-managers — 2026-11-26 (delivered in chat, evening)
 - [ ] Zoom vs Google Meet (2026) — zoom-vs-google-meet
 - [ ] Best Free AI Presentation Makers (2026) — best-free-ai-presentation-makers
 - [ ] Spotify vs YouTube Music (2026) — spotify-vs-youtube-music
