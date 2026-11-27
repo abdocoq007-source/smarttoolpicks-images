@@ -18,8 +18,8 @@ Mark a topic `[x]` with its publish-ready date once it has been sent. Runs take 
 - [x] Trello vs Asana for Small Teams (2026) — trello-vs-asana  (2026-11-26, delivered in chat)
 ## Queue
 - [x] Best Free Password Managers (2026) — best-free-password-managers — 2026-11-26 (delivered in chat, evening)
-- [ ] Zoom vs Google Meet (2026) — zoom-vs-google-meet
-- [ ] Best Free AI Presentation Makers (2026) — best-free-ai-presentation-makers
+- [x] Zoom vs Google Meet (2026) — zoom-vs-google-meet — 2026-11-27 (delivered in chat)
+- [x] Best Free AI Presentation Makers (2026) — best-free-ai-presentation-makers — 2026-11-27 (delivered in chat)
 - [ ] Spotify vs YouTube Music (2026) — spotify-vs-youtube-music
 - [ ] Best Free Screen Recorders for PC (2026) — best-free-screen-recorders
 - [ ] Duolingo vs Babbel (2026) — duolingo-vs-babbel
